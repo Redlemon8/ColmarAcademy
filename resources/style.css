@@ -399,6 +399,7 @@ li {
     display: flex;
     flex-direction: row;
     height: 50%;
+    margin: auto;
 }
 
 .block-photo {
@@ -408,6 +409,7 @@ li {
     background-color: rgb(219, 220, 232);
     margin: 0 1rem 1.5rem;
     width: 33.33%;
+    max-width: 530px;
     height: auto;
     color:rgb(34, 66, 124);
 }
