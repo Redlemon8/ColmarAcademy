@@ -2,7 +2,7 @@
 
 ## Projet Codecademy
 
-En 2023 j'ai entrepri une auto-formation sur le site Codecademy ou j'y ai suivi le cour suivant : Build a Website with HTML, CSS, and GitHub Pages.
+En 2023, j'ai entrepris une auto-formation sur le site Codecademy où j'y ai suivi le cours suivant : Build a Website with HTML, CSS, and GitHub Pages.
 
 ## Objectif
 
